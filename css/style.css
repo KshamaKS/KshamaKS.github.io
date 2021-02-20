@@ -42,17 +42,18 @@ h2.name {
 .body .me h4 {
     line-height: 150%;
     font-family: 'Montserrat', sans-serif;
+    font-size: 125%;
     padding-left: 5%;
     padding-right: 5%;
 }
 
 .side {
     height: 100%;
-    width: 20%;
+    width: 30%;
     position: fixed;
     z-index: 1;
     top: 4%;
-    left: 10%;
+    left: 0%;
     background-color: rgb(157, 172, 171);
     overflow-x: hidden;
     padding-top: 2%;
